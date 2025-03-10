@@ -1,0 +1,2 @@
+v1
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_country_KPI/part-00000-44ff25d1-ae4b-4995-9b83-ddfa8f7b5349-c000.json","size":0,"isDir":false,"modificationTime":1604920826732,"blockReplication":3,"blockSize":134217728,"action":"add"}
