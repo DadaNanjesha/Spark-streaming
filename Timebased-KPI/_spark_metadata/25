@@ -1,0 +1,3 @@
+v1
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_KPI/part-00000-7786f208-a261-419b-8f6e-38c0f7a994c8-c000.json","size":0,"isDir":false,"modificationTime":1604921854216,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_KPI/part-00144-3aa666ee-3fb2-496b-b41d-ab7607592007-c000.json","size":183,"isDir":false,"modificationTime":1604921858699,"blockReplication":3,"blockSize":134217728,"action":"add"}

@@ -1,0 +1,4 @@
+v1
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_country_KPI/part-00000-25ba3bdf-276e-4334-adbe-97edfe50dac1-c000.json","size":0,"isDir":false,"modificationTime":1604922547985,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_country_KPI/part-00108-e790aa7c-ab2c-46ef-baa9-45850c1a85be-c000.json","size":174,"isDir":false,"modificationTime":1604922563859,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-6.ec2.internal:8020/user/ec2-user/time_country_KPI/part-00160-4af618bc-09a7-4230-9b6b-d2765dffd645-c000.json","size":168,"isDir":false,"modificationTime":1604922567090,"blockReplication":3,"blockSize":134217728,"action":"add"}
