@@ -60,11 +60,11 @@ The application is structured to ensure modularity and scalability. Key steps in
 
 ```mermaid
 flowchart TD
-    A[Kafka Topic: Streaming Data] --> B[Raw Data (JSON)]
+    A[Kafka Topic: Streaming Data] --> B[Raw Data -JSON]
     B --> C[Parse Data with Schema]
     C --> D[Explode Array Items & Rename Columns]
-    D --> E[Apply UDFs for Order/Return Flags & Cost]
-    E --> F[Group by Window (1 minute)]
+    D --> E[Apply UDFs for Order or Return Flags & Cost]
+    E --> F[Group by Window -1 minute]
     F --> G[Compute KPIs: OPM, Sales, Rate of Return, Avg Trans Size]
     G --> H[Output to Console]
     G --> I[Write JSON to HDFS]
